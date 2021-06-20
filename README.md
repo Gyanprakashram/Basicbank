@@ -10,7 +10,8 @@ Back-end: PHP
 
 Database: MySQL
 
-The bank database contains two table users and transaction.
-The users table contains five fields named as Account NO, Name, E-Mail, Phone, Balance
-The transaction table contains five fields named as s-no, Sender, Receiver, Amount and Date
+The bank database contains two table users and transaction:
+
+The users table contains five fields named as Account NO, Name, E-Mail, Phone, Balance.
+The transaction table contains five fields named as s-no, Sender, Receiver, Amount and Date.
 
