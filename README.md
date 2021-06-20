@@ -2,9 +2,12 @@
 
 # introduction
 The Sparks Foundation Web development internship project to transfer money between multiple customers.
+
 # Stack used
 Front-end: HTML, CSS, JavaScript
+
 Back-end: PHP
+
 Database: MySQL
 
 The bank database contains two table users and transaction.
